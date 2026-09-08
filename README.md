@@ -16,7 +16,7 @@ This agent helps Nigerian shoppers check food prices, calculate totals for multi
 3. Run: uv run streamlit run app.py
 
 ## Live Demo
-🔗 [Your Streamlit Cloud URL here]
+🔗 (https://my-ai-agent-mwokppjkpzzfbfyzgxb2wi.streamlit.app/)
 
 ## Tech Stack
 - Python
